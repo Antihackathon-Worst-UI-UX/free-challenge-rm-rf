@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XKM9mJg7)
 # Torneo Peor UI/UX 🎨🧨
 
 ¡Bienvenid@ al ~~mejor~~ peor torneo del DCC! 😻
@@ -20,7 +19,7 @@ Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y
 
 ## Entrega ✅
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
-- Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
+- Link Deploy = https://laptoppe.github.io/antihackathon_worstui_team_RM-RF/
 
 ---
 
